@@ -8,7 +8,7 @@ var Crawler = require("bauer-crawler");
 
 var crawler = new Crawler();
 
-crawler.require(__dirname + "/../../");
+crawler.loadPlugin(__dirname + "/../../");
 
 crawler.ready(function() {
   

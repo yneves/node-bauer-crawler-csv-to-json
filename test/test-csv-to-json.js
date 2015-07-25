@@ -16,7 +16,7 @@ describe("csv-to-json",function() {
     require(__dirname + "/../lib/index.js");
   });
   
-  it("pdftotext",function(done) {
+  it("sample",function(done) {
     var proc = cp.spawn("node",[__dirname + "/sample/sample.js"],{ stdio: "pipe" });
     var output = "";
     proc.stdout.on("data",function(data) {
