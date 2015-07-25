@@ -11,7 +11,6 @@ describe("csv-to-json",function() {
 
   it("require",function() {
     require(__dirname + "/../lib/promise.js");
-    require(__dirname + "/../lib/master.js");
     require(__dirname + "/../lib/worker.js");
     require(__dirname + "/../lib/index.js");
   });
