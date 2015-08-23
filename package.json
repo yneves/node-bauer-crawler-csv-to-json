@@ -1,6 +1,6 @@
 {
   "name": "bauer-crawler-csv-to-json",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin for bauer-crawler to convert CSV into JSON.",
   "keywords": [
     "multi-thread",
