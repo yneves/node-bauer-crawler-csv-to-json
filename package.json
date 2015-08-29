@@ -1,7 +1,7 @@
 {
-  "name": "bauer-crawler-csv-to-json",
+  "name": "bauer-plugin-csv-to-json",
   "version": "0.1.3",
-  "description": "Plugin for bauer-crawler to convert CSV into JSON.",
+  "description": "Plugin for bauer to convert CSV into JSON.",
   "keywords": [
     "multi-thread",
     "multi-core",
@@ -10,11 +10,11 @@
     "multi-process",
     "cluster",
     "crawler",
-    "scrape",
-    "scraper"
+    "csv",
+    "json"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yneves/node-bauer-crawler-csv-to-json",
+  "homepage": "https://github.com/yneves/node-bauer-plugin-csv-to-json",
   "author": {
     "name": "Yuri Neves Silveira",
     "url": "http://yneves.com/",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yneves/node-bauer-crawler-csv-to-json.git"
+    "url": "https://github.com/yneves/node-bauer-plugin-csv-to-json.git"
   },
   "scripts": {
     "test": "mocha"

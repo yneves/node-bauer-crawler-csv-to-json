@@ -1,2 +1,2 @@
-# node-bauer-crawler-csv-to-json
-Pluginf or bauer-crawler to convert CSV into JSON.
+# node-bauer-plugin-csv-to-json
+Pluginf or bauer to convert CSV into JSON.
