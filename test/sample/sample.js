@@ -12,7 +12,7 @@ crawler.loadPlugin(__dirname + "/../../");
 
 crawler.start(function() {
   
-  return this.promise()
+  return this.Promise
     .csvToJSON({
       source: __dirname + "/sample.csv",
       parser: {
