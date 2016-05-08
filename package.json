@@ -1,6 +1,6 @@
 {
   "name": "bauer-plugin-csv-to-json",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Plugin for bauer to convert CSV into JSON.",
   "keywords": [
     "multi-thread",
