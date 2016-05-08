@@ -28,12 +28,12 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^2.4.5"
   },
   "dependencies": {
-    "bauer-cache": "^0.1.9",
-    "bauer-crawler": "^0.2.6",
-    "bauer-factory": "^2.0.4",
+    "bauer-cache": "^0.1.10",
+    "bauer-crawler": "^0.2.9",
+    "bauer-factory": "^2.0.6",
     "csv-parse": "^1.0.1"
   },
   "main": "lib/index.js"
